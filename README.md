@@ -1,16 +1,17 @@
 # mini_habit_tracker
 
-A new Flutter project.
+Uji Strikethrough: Centang dan batalkan centang habit. Perhatikan teksnya.
+![image](https://github.com/user-attachments/assets/0d71e70c-59dc-482c-959f-0d3acccb8297)
 
-## Getting Started
+Uji Tambah Habit:
+![image](https://github.com/user-attachments/assets/2c33d6f4-c1e9-40ea-a36b-d8b36f1d7ce8)
+![image](https://github.com/user-attachments/assets/0f769b73-2a29-4023-b2bf-5882bceb7249)
 
-This project is a starting point for a Flutter application.
+Uji Edit Habit:
+![image](https://github.com/user-attachments/assets/4a6ea822-3bcd-448a-98db-ce75147e26d9)
+![image](https://github.com/user-attachments/assets/af769807-fcfd-4971-81c0-bf1528ccb57e)
 
-A few resources to get you started if this is your first Flutter project:
+Uji Hapus Habit:
+![image](https://github.com/user-attachments/assets/5e6baf97-2648-4284-809b-79cd54d8fd2b)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
